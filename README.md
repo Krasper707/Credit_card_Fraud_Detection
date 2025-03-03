@@ -12,6 +12,8 @@ The primary objective of this study is to develop a robust fraud detection model
 
 The dataset consists of anonymized financial transactions with features such as transaction amount, time, and engineered variables (V1-V28). The key challenge in this dataset is the extreme imbalance, where fraudulent transactions make up a very small percentage of the total data.
 
+[Dataset Link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
 ## Data Preprocessing
 
 - Handling Missing Values
